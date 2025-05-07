@@ -1,7 +1,8 @@
 # Hii, eu sou o Bernardo 👨‍💻
 
 Sou o criador do **Canal do B7**, apaixonado por tecnologia, automação, programação e tudo que envolve performance e criatividade técnica.  
-Crio conteúdo técnico, desenvolvo soluções em C#, scripts avançados com PowerShell e AutoHotkey, e ajudo a comunidade a automatizar o impossível 🚀
+Crio conteúdo técnico, desenvolvo soluções em C#, C++, Python, scripts avançados com PowerShell e AutoHotkey.
+E ajudo a comunidade a automatizar o impossível 🚀
 
 ---
 
@@ -9,8 +10,8 @@ Crio conteúdo técnico, desenvolvo soluções em C#, scripts avançados com Pow
 
 **B7 Cyber Boost** é meu programa desenvolvido em C# focado em:
 - ⚙️ **Otimização de performance no Windows**
-- 🧱 Aplicação de tweaks gráficos (GPU, input, rede)
-- 🔐 Ajustes avançados com segurança e controle
+- 🧱 Aplicação de Tweaks visuais e ajustes de latência (NVIDIA, AMD, INTEL, etc).
+- 🔐 Ajustes avançados reconhecendo as necessidades do seu computador aplicando as configurações ideais de forma automática.
 - 💻 Interface moderna com **MaterialSkin**, execução com permissões elevadas e lógica modular
 
 ---
